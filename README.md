@@ -1,6 +1,6 @@
 # Git
 
- ![logo@2x](C:\Users\admin\Desktop\work\Git\Git\images\logo@2x.png)
+ ![logo@2x](/images/logo%402x.png)
 
 https://git-scm.com/
 
