@@ -1,4 +1,4 @@
-# Git
+<h1 align=center>Git</h1>
 
  ![logo@2x](/images/logo%402x.png)
 
@@ -10,6 +10,8 @@ https://git-scm.com/
 
 ---
 
-[toc]
-
 #### :golf:版本控制
+
+- [版本控制](#:golf:版本控制)
+
+- 
