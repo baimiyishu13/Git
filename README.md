@@ -8,7 +8,7 @@ https://git-scm.com/
 
 :trident: git 十分简单！
 
-
+:tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: :tanabata_tree: 
 
 - [版本控制](#版本控制)
 
@@ -16,34 +16,5 @@ https://git-scm.com/
 
 
 
-1
-
-2
-
-3
-
-4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### 版本控制
+
