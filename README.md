@@ -218,3 +218,54 @@ https://github.com/settings/keys
 
 #### Git分支
 
+分支在git中相对比较难，分支就是平行宇宙，相互不干扰，不过，在两个平行合并了，就需要处理些问题！
+
+
+
+git分支中常用指令：
+
+```sh
+# 列出所有本地分支
+admin@DESKTOP-qiang MINGW64 ~/Desktop/work/Git/Git (main)
+$ git branch
+* main
+
+admin@DESKTOP-qiang MINGW64 ~/Desktop/work/Git/Git (main)
+$ git branch -r
+  origin/HEAD -> origin/main
+  origin/main
+```
+
+新建分支：
+
++ 停留在当前分支：git branch dev
++ 新建并切换分支：git checkout -b dev
+
+```SH
+admin@DESKTOP-qiang MINGW64 ~/Desktop/work/Git/Git (main)
+$ git branch dev
+
+admin@DESKTOP-qiang MINGW64 ~/Desktop/work/Git/Git (main)
+$ git branch
+  dev
+* main
+```
+
+切换分支：
+
+```SH
+$ git checkout dev
+```
+
+删除分支
+
+```SH
+# 本地
+$ git branch -d dev
+Deleted branch dev (was 9df00eb).
+# 远程
+git branch -dr dev
+```
+
+
+
