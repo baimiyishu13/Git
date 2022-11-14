@@ -169,7 +169,7 @@ git的工作流程一般是这样的：
 ```
 git add .		// 添加所有文件到暂存区
 git status		// 查看暂存区文件
-it commit -m	// 提交暂存区内容到本地仓库 -m 提交信息
+git commit -m	// 提交暂存区内容到本地仓库 -m 提交信息
 // $git commit -m "new file"
 
 ```
