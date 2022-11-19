@@ -4,7 +4,7 @@
 
 :tada: 在工作中必须掌握使用的
 
-:trident: git 十分简单！
+:shell: git 十分简单！
 
 ---
 
